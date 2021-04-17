@@ -1,0 +1,6 @@
+if { $? -eq }
+
+then 
+works successfully!
+
+fi
